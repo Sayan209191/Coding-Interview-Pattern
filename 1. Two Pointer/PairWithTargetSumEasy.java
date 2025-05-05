@@ -1,6 +1,7 @@
 import java.util.HashMap;
 
 public class PairWithTargetSumEasy {
+    //https://leetcode.com/problems/two-sum/
     public static int[] twoSum(int[] nums, int target) {
         int res[] = new int[2];
 
