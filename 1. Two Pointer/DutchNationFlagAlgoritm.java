@@ -1,4 +1,5 @@
 public class DutchNationFlagAlgoritm {
+    // https://leetcode.com/problems/sort-colors/
     public void sortColors(int[] nums) {
         int low=0, high = nums.length-1;
         int mid = 0;
